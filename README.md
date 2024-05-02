@@ -25,5 +25,5 @@ In this work, we investigate the relationship between sparsity and inference tim
 # Team Members
 * Prof. Chiranjib Bhattacharyya
 * Chaitanya Murti
-* Tanay Narshana
-* Mehul Shankapal Umesh
+* Tanay Narshana (graduated, now at Google)
+* Dhruva Kashyap
